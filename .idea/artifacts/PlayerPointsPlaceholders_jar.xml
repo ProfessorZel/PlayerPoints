@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="PlayerPointsPlaceholders:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlayerPointsPlaceholders_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HexFix.jar">
+        <element id="module-output" name="PlayerPointsPlaceholders" />
+      </element>
+    </root>
+  </artifact>
+</component>

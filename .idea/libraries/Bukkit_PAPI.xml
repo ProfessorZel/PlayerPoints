@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Bukkit+PAPI">
+    <CLASSES>
+      <root url="jar://D:/Minecraft/PlaceholderAPI-2.10.9.jar!/" />
+      <root url="jar://D:/Minecraft/patched_1.16.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Minecraft/patched_1.16.5.jar!/" />
+    </SOURCES>
+  </library>
+</component>
